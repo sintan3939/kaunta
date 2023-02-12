@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">初めてのカウンター！</string>
+    <string name="text_clear">クリアするよ！</string>
+    <string name="text_counter">カウントするよ！</string>
+</resources>
